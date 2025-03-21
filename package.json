@@ -11,6 +11,7 @@
   },
   "type": "module",
   "dependencies": {
+    "critters": "^0.0.23",
     "lucide-react": "^0.482.0",
     "motion": "^12.5.0",
     "next": "15.2.2",
