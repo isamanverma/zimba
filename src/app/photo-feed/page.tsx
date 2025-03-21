@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 export default function WondersGallery() {
   return (
     <main>
-      <h1 className="py-5 text-center text-7xl font-bold">
+      <h1 className=" text-center text-7xl font-bold">
         <span className="bg-gradient-to-r from-yellow-500 to-orange-400 bg-clip-text text-transparent">
           Photo Gallery
         </span>
